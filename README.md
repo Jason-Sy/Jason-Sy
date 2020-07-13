@@ -1,2 +1,2 @@
 ### Will edit someday
-![image](/dino.gif)
+![image](https://github.com/Jason-Sy/Jason-Sy/blob/master/dino.gif)
